@@ -1,0 +1,14 @@
+<pets>
+	<pet>
+		<name>Jeffrey</name>
+		<species>Giraffe</species>
+	</pet>
+	<pet>
+		<name>Gustav</name>
+		<species>Turtle</species>
+	</pet>
+	<pet>
+		<name>Gregory</name>						
+		<species>Monkey</species>
+	</pet>
+</pets>
